@@ -1,1 +1,1 @@
-# nextJsCourse
+This is repo containing some work done within Udemy course [Next.js 14 & React](https://www.udemy.com/course/build-a-modern-react-and-redux-app-with-circleci-cicd-aws/](https://www.udemy.com/course/nextjs-react-the-complete-guide/)https://www.udemy.com/course/nextjs-react-the-complete-guide/).
